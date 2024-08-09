@@ -1,12 +1,23 @@
 {
   "name": "calculadora",
   "version": "1.0.0",
-  "description": "",
+  "description": "This example project is written in Node, and tested with Jest.",
   "main": "calculadora.js",
   "scripts": {
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^27.0.0"
-  }
+    "jest": "^27.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TecPochutla/CalculadoraTestCalificacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TecPochutla/CalculadoraTestCalificacion/issues"
+  },
+  "homepage": "https://github.com/TecPochutla/CalculadoraTestCalificacion#readme"
 }
